@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAB/LAB1/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/LAB/LAB1/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Hoc online/Hoc online.iml" filepath="$PROJECT_DIR$/JAVA/Hoc online/Hoc online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INJTELIJ -JAVA - PROJECT.iml" filepath="$PROJECT_DIR$/INJTELIJ -JAVA - PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB/LAB.iml" filepath="$PROJECT_DIR$/LAB/LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/LAB/LAB_1/LAB_1.iml" filepath="$PROJECT_DIR$/JAVA/LAB/LAB_1/LAB_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUIZ IN CLASS/QUIZ IN CLASS.iml" filepath="$PROJECT_DIR$/QUIZ IN CLASS/QUIZ IN CLASS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUIZ IN CLASS/Quiz3/Quizz3.iml" filepath="$PROJECT_DIR$/QUIZ IN CLASS/Quiz3/Quizz3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB/LAB1/bai2/bai2.iml" filepath="$PROJECT_DIR$/LAB/LAB1/bai2/bai2.iml" />
+    </modules>
+  </component>
+</project>
